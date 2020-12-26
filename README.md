@@ -1,4 +1,4 @@
-## Databases-SQL-for-DataScience
+## Databases and SQL for DataScience
 This is a project for the course of Databases and SQL for Data Science <br>
 
 Understand 3 Chicago datasets <br>
